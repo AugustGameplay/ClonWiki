@@ -1,0 +1,19 @@
+.contenedor-titulo {
+    display: flex;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.grande {
+    font-size: 80px
+
+}
+
+.normal {
+    font-size: 20px;
+    padding-top: 47px;
+}
+
+.logo-central {
+    position: relative;
+    text-align: center;
+}
